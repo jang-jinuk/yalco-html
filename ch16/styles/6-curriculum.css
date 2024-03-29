@@ -108,7 +108,8 @@
   .curriculum__list li:hover::before {
     background-color: var(--color-sub);
   }
-  .curriculum__list li:nth-child(2):hover
+
+  /* .curriculum__list li:nth-child(2):hover
   ~ .curriculum__progress::after {
     width: 200px;
   }
@@ -128,4 +129,5 @@
   ~ .curriculum__progress::after {
     width: 1000px;
   }
+} */
 }
